@@ -1,0 +1,4 @@
+DROP TABLE Product;
+DROP TABLE Pc;
+DROP TABLE Laptop;
+DROP TABLE Printer;
